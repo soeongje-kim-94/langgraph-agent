@@ -1,0 +1,6 @@
+.env
+.python-version
+*_collections/
+__pycache__/
+google/
+.DS_Store
